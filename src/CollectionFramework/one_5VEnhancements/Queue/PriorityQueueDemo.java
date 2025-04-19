@@ -6,6 +6,7 @@ import java.util.PriorityQueue;
 public class PriorityQueueDemo {
     public static void main(String[] args) {
         PriorityQueue pq1=new PriorityQueue();
+
         pq1.offer("A");
         pq1.offer("Z");
         pq1.offer("L");
