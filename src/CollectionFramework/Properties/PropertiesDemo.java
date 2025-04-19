@@ -15,7 +15,7 @@ public class PropertiesDemo {
         System.out.println(s);
         p.setProperty("new-name","Swami Narayan");
         FileOutputStream fos=new FileOutputStream("E:\\OOPS\\OOPs\\src\\CollectionFramework\\Properties\\abc.properties");
-        p.store(fos,"By Ritankaar Demo Java class");
+        p.store(fos,"Updated By Ritankar Jana (Demo Java class)");
         System.out.println(p);
     }
 }
