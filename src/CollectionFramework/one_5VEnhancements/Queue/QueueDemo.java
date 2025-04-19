@@ -1,4 +1,4 @@
-package CollectionFramework.Queue;
+package CollectionFramework.one_5VEnhancements.Queue;
 
 import java.util.LinkedList;
 import java.util.Queue;
